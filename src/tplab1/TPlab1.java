@@ -6,7 +6,7 @@ package tplab1;
 
 /**
  *
- * @author 19566
+ * @author I am
  */
 public class TPlab1 {
 
