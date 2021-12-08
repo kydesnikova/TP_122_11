@@ -11,4 +11,7 @@ package tplab1;
  */
 public class NewClass {
     // I am
+    public void print(){
+        System.out.println("Hello");
+    }
 }
